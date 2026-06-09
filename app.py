@@ -102,7 +102,7 @@ st.markdown("""
 
 ROBOFLOW_API_KEY = "NsCgLEAtYk1ckrotpPec" 
 ROBOFLOW_PROJECT = "flags-ekzlq-pd8qp"
-ROBOFLOW_VERSION = "1" 
+ROBOFLOW_VERSION = "2" 
 ROBOFLOW_URL = f"https://detect.roboflow.com/{ROBOFLOW_PROJECT}/{ROBOFLOW_VERSION}"
 
 def get_roboflow_predictions(image, api_confidence):
