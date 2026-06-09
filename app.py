@@ -100,8 +100,8 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-ROBOFLOW_API_KEY = "g5Gd6wERKi3CZAGGsBBT" 
-ROBOFLOW_PROJECT = "flags-ekzlq-ji22t"
+ROBOFLOW_API_KEY = "NsCgLEAtYk1ckrotpPec" 
+ROBOFLOW_PROJECT = "flags-ekzlq-pd8qp"
 ROBOFLOW_VERSION = "1" 
 ROBOFLOW_URL = f"https://detect.roboflow.com/{ROBOFLOW_PROJECT}/{ROBOFLOW_VERSION}"
 
